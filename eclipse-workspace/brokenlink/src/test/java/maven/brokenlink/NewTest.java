@@ -104,6 +104,7 @@ public class NewTest {
 	   driver.findElement(By.xpath("(//span)[6]")).click();
 	   Thread.sleep(1000);
 	   driver.findElement(By.xpath("(//span)[8]")).click();
+	   Thread.sleep(2000);
 	  
 	  
   }
